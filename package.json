@@ -1,0 +1,9 @@
+{
+  "name": "@glimmer/env",
+  "version": "0.1.0",
+  "description": "Glimmer application environment variables stub",
+  "repository": "https://github.com/glimmerjs/glimmer-env",
+  "license": "MIT",
+  "main": "dist/commonjs/es5/index.js",
+  "module": "dist/modules/es2017/index.js"
+}
