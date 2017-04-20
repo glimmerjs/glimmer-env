@@ -1,6 +1,6 @@
 {
   "name": "@glimmer/env",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Glimmer application environment variables stub",
   "repository": "https://github.com/glimmerjs/glimmer-env",
   "license": "MIT",
