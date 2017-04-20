@@ -1,4 +1,4 @@
-define('@glimmer/env', [], function(exports) {
+define('@glimmer/env', ['exports'], function(exports) {
   'use strict';
 
   Object.defineProperty(exports, "__esModule", {
