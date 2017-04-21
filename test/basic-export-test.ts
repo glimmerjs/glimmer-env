@@ -1,4 +1,4 @@
-import { DEBUG, CI } from '../src';
+import { DEBUG, CI } from '../src/index';
 
 const { module, test } = QUnit;
 
