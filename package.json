@@ -12,7 +12,8 @@
   ],
   "scripts": {
     "build": "ember build",
-    "test": "ember test"
+    "test": "ember test",
+    "prepublish": "ember build --environment=production"
   },
   "devDependencies": {
     "@glimmer/build": "0.6.0",
